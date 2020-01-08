@@ -6,12 +6,22 @@ namespace AbstractTest
 {
     class HorizontalBarChart : BarChart
     {
-        //文字 + **
         public override void plot()
         {
+            Console.WriteLine("輸出");
 
-            //輸出
-            Console.WriteLine("Hello World!");
+            //文字 + **
+            for (int idx = 0; idx < bars.Count; idx++)
+            {
+                Console.Write(bars[idx]+" ");
+
+                for(int i = 0; i < bars[idx]; i++)
+                {
+                    Console.Write("*");
+                }
+                //換行
+                Console.WriteLine(" ");
+            }
         }
     }
 }

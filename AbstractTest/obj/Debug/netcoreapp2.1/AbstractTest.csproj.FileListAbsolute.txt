@@ -1,0 +1,10 @@
+D:\VisualStudio\AbstractTest\AbstractTest\obj\Debug\netcoreapp2.1\AbstractTest.csprojAssemblyReference.cache
+D:\VisualStudio\AbstractTest\AbstractTest\obj\Debug\netcoreapp2.1\AbstractTest.AssemblyInfoInputs.cache
+D:\VisualStudio\AbstractTest\AbstractTest\obj\Debug\netcoreapp2.1\AbstractTest.AssemblyInfo.cs
+D:\VisualStudio\AbstractTest\AbstractTest\bin\Debug\netcoreapp2.1\AbstractTest.deps.json
+D:\VisualStudio\AbstractTest\AbstractTest\bin\Debug\netcoreapp2.1\AbstractTest.runtimeconfig.json
+D:\VisualStudio\AbstractTest\AbstractTest\bin\Debug\netcoreapp2.1\AbstractTest.runtimeconfig.dev.json
+D:\VisualStudio\AbstractTest\AbstractTest\bin\Debug\netcoreapp2.1\AbstractTest.dll
+D:\VisualStudio\AbstractTest\AbstractTest\bin\Debug\netcoreapp2.1\AbstractTest.pdb
+D:\VisualStudio\AbstractTest\AbstractTest\obj\Debug\netcoreapp2.1\AbstractTest.dll
+D:\VisualStudio\AbstractTest\AbstractTest\obj\Debug\netcoreapp2.1\AbstractTest.pdb
